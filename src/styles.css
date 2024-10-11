@@ -18,6 +18,7 @@ main {
   margin: 3rem 10%;
 }
 
+<<<<<<< HEAD
 header {
   padding: 0.75rem 0.1rem;
   display: flex;
@@ -71,6 +72,8 @@ nav ul li a:hover {
   }
 }
 
+=======
+>>>>>>> 8316436 (Update after session work - [short description])
 #dashboard {
   display: flex;
   flex-direction: column;
@@ -84,6 +87,7 @@ nav ul li a:hover {
   #dashboard {
     flex-direction: row;
   }
+<<<<<<< HEAD
 }
 
 #traffic {
@@ -277,4 +281,6 @@ button:hover .icon {
   font: inherit;
   font-size: 0.9rem;
   color: #4f4b53;
+=======
+>>>>>>> 8316436 (Update after session work - [short description])
 }
